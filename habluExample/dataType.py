@@ -1,5 +1,6 @@
 # int type data
 hablu = 420
+print(hablu)
 print(type(hablu))
 
 
