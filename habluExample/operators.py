@@ -27,6 +27,8 @@ print(num1 // num2)
 
 
 # assignment operators
-m = 5
+m = 10
 res = m + 10
+
+res += 10
 print(res)
