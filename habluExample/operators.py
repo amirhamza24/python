@@ -29,6 +29,15 @@ print(num1 // num2)
 # assignment operators
 m = 10
 res = m + 10
-
 res += 10
 print(res)
+
+
+# swapping
+c = 50
+d = 60
+c, d = d, c   # this is the swapping function
+print(c, d)
+print("The value of C is: ", c)
+print("The value of D is: ", d)
+print(f"The value of C is: {c} & The value of D is: {d}")
