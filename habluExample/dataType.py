@@ -6,6 +6,7 @@ print(type(hablu))
 
 # floating type data
 gablu = 40.2
+print(gablu)
 print(type(gablu))
 
 
