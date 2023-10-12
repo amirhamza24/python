@@ -20,8 +20,8 @@ for x in studentInfo:
 for a in studentInfo.values():  # ekhane sob parent key er value dekhabe
     print(a)
 
-for b in studentInfo.keys():
+for b in studentInfo.keys():  # ekhaneu dictionaries er parent key gulo dekhabe
     print(b)
 
-for c in studentInfo.items():
+for c in studentInfo.items():  # ekhane dictionaries er sob key with value 2 tai dekhabe
     print(c)
