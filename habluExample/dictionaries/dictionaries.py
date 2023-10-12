@@ -14,7 +14,7 @@ studentInfo = {
     "year": 2023
 }
 
- # accessing dictionary items
+ # accessing dictionaries items
 
 print(studentInfo["student2"]["group"])
 print(studentInfo["year"])
