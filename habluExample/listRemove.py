@@ -14,7 +14,6 @@ print(newList)
 del newList[1]
 print(newList)
 
-
 # the clear() method empties the list. eta list er all data k remove kore dibe
 newList.clear()
 print(newList)
