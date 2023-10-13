@@ -1,5 +1,6 @@
+# recursion declaration
 # def my_rec():
-#     print("Recursion")
+#     print("Recursion")  # this print printed 995+- times.. cause recursion er limits 1000 er ektu kom (995+-)
 #     my_rec()
 #
 # my_rec()
