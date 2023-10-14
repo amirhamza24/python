@@ -8,7 +8,7 @@ x = iter(list)
 # print(x.__next__())
 # print(x.__next__())
 # print(x.__next__())
-# print(x.__next__())  # egula diye protibal call protibar print korar jonno proti ta kore value dekhabe. mane ekta kore
+# print(x.__next__())  # egula ekta ekta kore value dekhabe. mane protibar call korar jonno ekta kore value dekhabe
 # print(x.__next__())
 # print(x.__next__())
 # print(x.__next__())
